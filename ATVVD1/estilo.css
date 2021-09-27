@@ -1,0 +1,14 @@
+h1{
+  font-style: italic;
+  color: hotpink;
+}
+
+.p1{
+  color: red;
+  font-style: oblique;
+}
+.p2{
+  color: purple;
+  font-style: normal;
+  font-weight: 900;
+}
